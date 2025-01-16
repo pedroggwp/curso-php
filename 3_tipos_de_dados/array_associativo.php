@@ -1,6 +1,10 @@
 <?php
 
-    $arr = ['nome' => "Fred", 'patas' => 4, 'cor' => 'Marrom'];
+    $arr = [
+        'nome' => "Fred",
+        'patas' => 4,
+        'cor' => 'Marrom',
+    ];
 
     echo $arr['nome'];
     echo "<br>";
